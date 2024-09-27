@@ -2,10 +2,11 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Abstract
-...
+NOTE: The abstract and results of this research will be shared here after the conference presentation.
 
+## Abstract
+ 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. 
+ 
+## Results
  
