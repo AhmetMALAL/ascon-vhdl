@@ -2,8 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Repository for the Article: "XX"
-
 This repository contains the hardware implementation results and source code used in the article **High-Performance FPGA Implementations of Lightweight ASCON-128 and ASCON-128a with Enhanced Throughput-to-Area Efficiency**, published in **The 17th International Information Security and Cryptology Conference**. The article presents the performance of ASCON cryptographic algorithms on various FPGA platforms, including Spartan-6, Kintex-7, and Artix-7.
 
 For more details, please refer to the article (will be added soon): [Link to the article](URL).
