@@ -1,6 +1,6 @@
 ################################################################
 ## Author    : Ahmet MALAL
-## Project   : ASCON Pyhton Implementation Algorithm 
+## Project   : ASCON Algorithm Pyhton Implementation  
 ## Date      : 16.07.2024
 ################################################################
 
